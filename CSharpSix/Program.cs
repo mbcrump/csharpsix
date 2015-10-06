@@ -10,6 +10,7 @@ namespace CSharpSix
         {
             ReadLine();
         }
+
     }
 }
 
@@ -75,7 +76,7 @@ namespace CSharpSix
 //        {
 //            var stars = new Dictionary<string, string>()
 //            {
-//                ["Michael Jordon"] = "Basketball",
+//                ["Michael Jordan"] = "Basketball",
 //                ["Peyton Manning"] = "Football",
 //                ["Babe Ruth"] = "Baseball"
 //            };
